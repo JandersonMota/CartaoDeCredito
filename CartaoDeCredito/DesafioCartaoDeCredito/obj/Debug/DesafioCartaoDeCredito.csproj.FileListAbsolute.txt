@@ -1,0 +1,8 @@
+C:\1.CURSO\C#\CartaoDeCredito\DesafioCartaoDeCredito\bin\Debug\DesafioCartaoDeCredito.exe.config
+C:\1.CURSO\C#\CartaoDeCredito\DesafioCartaoDeCredito\bin\Debug\DesafioCartaoDeCredito.exe
+C:\1.CURSO\C#\CartaoDeCredito\DesafioCartaoDeCredito\bin\Debug\DesafioCartaoDeCredito.pdb
+C:\1.CURSO\C#\CartaoDeCredito\DesafioCartaoDeCredito\obj\Debug\DesafioCartaoDeCredito.csproj.AssemblyReference.cache
+C:\1.CURSO\C#\CartaoDeCredito\DesafioCartaoDeCredito\obj\Debug\DesafioCartaoDeCredito.csproj.SuggestedBindingRedirects.cache
+C:\1.CURSO\C#\CartaoDeCredito\DesafioCartaoDeCredito\obj\Debug\DesafioCartaoDeCredito.csproj.CoreCompileInputs.cache
+C:\1.CURSO\C#\CartaoDeCredito\DesafioCartaoDeCredito\obj\Debug\DesafioCartaoDeCredito.exe
+C:\1.CURSO\C#\CartaoDeCredito\DesafioCartaoDeCredito\obj\Debug\DesafioCartaoDeCredito.pdb
