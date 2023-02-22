@@ -1,0 +1,8 @@
+C:\1.CURSO\C#\CaraOuCoroa\DesafioCaraOuCoroa\obj\Debug\DesafioCaraOuCoroa.csproj.AssemblyReference.cache
+C:\1.CURSO\C#\CaraOuCoroa\DesafioCaraOuCoroa\obj\Debug\DesafioCaraOuCoroa.csproj.SuggestedBindingRedirects.cache
+C:\1.CURSO\C#\CaraOuCoroa\DesafioCaraOuCoroa\obj\Debug\DesafioCaraOuCoroa.csproj.CoreCompileInputs.cache
+C:\1.CURSO\C#\CaraOuCoroa\DesafioCaraOuCoroa\bin\Debug\DesafioCaraOuCoroa.exe.config
+C:\1.CURSO\C#\CaraOuCoroa\DesafioCaraOuCoroa\bin\Debug\DesafioCaraOuCoroa.exe
+C:\1.CURSO\C#\CaraOuCoroa\DesafioCaraOuCoroa\bin\Debug\DesafioCaraOuCoroa.pdb
+C:\1.CURSO\C#\CaraOuCoroa\DesafioCaraOuCoroa\obj\Debug\DesafioCaraOuCoroa.exe
+C:\1.CURSO\C#\CaraOuCoroa\DesafioCaraOuCoroa\obj\Debug\DesafioCaraOuCoroa.pdb
