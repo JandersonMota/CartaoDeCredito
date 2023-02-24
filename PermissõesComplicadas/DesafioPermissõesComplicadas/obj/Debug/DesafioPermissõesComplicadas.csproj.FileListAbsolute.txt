@@ -1,0 +1,8 @@
+C:\1.CURSO\C#\PermissõesComplicadas\DesafioPermissõesComplicadas\bin\Debug\DesafioPermissõesComplicadas.exe.config
+C:\1.CURSO\C#\PermissõesComplicadas\DesafioPermissõesComplicadas\bin\Debug\DesafioPermissõesComplicadas.exe
+C:\1.CURSO\C#\PermissõesComplicadas\DesafioPermissõesComplicadas\bin\Debug\DesafioPermissõesComplicadas.pdb
+C:\1.CURSO\C#\PermissõesComplicadas\DesafioPermissõesComplicadas\obj\Debug\DesafioPermissõesComplicadas.csproj.AssemblyReference.cache
+C:\1.CURSO\C#\PermissõesComplicadas\DesafioPermissõesComplicadas\obj\Debug\DesafioPermissõesComplicadas.csproj.SuggestedBindingRedirects.cache
+C:\1.CURSO\C#\PermissõesComplicadas\DesafioPermissõesComplicadas\obj\Debug\DesafioPermissõesComplicadas.csproj.CoreCompileInputs.cache
+C:\1.CURSO\C#\PermissõesComplicadas\DesafioPermissõesComplicadas\obj\Debug\DesafioPermissõesComplicadas.exe
+C:\1.CURSO\C#\PermissõesComplicadas\DesafioPermissõesComplicadas\obj\Debug\DesafioPermissõesComplicadas.pdb
